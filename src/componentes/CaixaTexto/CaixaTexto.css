@@ -1,0 +1,25 @@
+.caixa-texto{
+    margin: 24px 0;
+}
+
+.caixa-texto label{
+    display: block;
+    margin-bottom: 8px;
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+.caixa-texto input{
+    border-radius: 10px;
+    background-color: #dfc9e6;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0., 0.08);
+    width: 100%;
+    border: none;
+    font-size: 14px;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.caixa-texto ::placeholder{
+    color: #a6257d;
+}
